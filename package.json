@@ -1,5 +1,5 @@
 {
-    "name": "momepp.mome-plastic-1.0.0",
+    "name": "Mome Plastic",
     "version": "1.0.0",
     "description": "A simple theme based on Plastic themes",
     "scripts": {
@@ -10,7 +10,8 @@
         "url": "git+https://github.com/MomePP/mome-plastic.git"
     },
     "author": "MomePP",
-    "license": "ISC",
+    "publisher": "MomePP",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/MomePP/mome-plastic/issues"
     },
