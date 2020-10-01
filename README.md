@@ -1,6 +1,8 @@
 # mome-plastic
 A theme based on Plastic themes for personal used only
 
+![alt text](https://github.com/MomePP/mome-plastic/blob/master/mome-plastic.screenshot.png?raw=true)
+
 ### How to install
 - Clone this repo to vscode extension directory
   - **Windows** : `%USERPROFILE%\.vscode\extensions`
