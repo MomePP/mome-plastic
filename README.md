@@ -1,4 +1,4 @@
-# mome-plastic
+# Mome Plastic Theme
 A theme based on Plastic themes for personal used only
 
 ![alt text](https://github.com/MomePP/mome-plastic/blob/master/mome-plastic.screenshot.png?raw=true)
