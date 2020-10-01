@@ -1,0 +1,33 @@
+{
+    "name": "momepp.mome-plastic-1.0.0",
+    "version": "1.0.0",
+    "description": "A simple theme based on Plastic themes",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MomePP/mome-plastic.git"
+    },
+    "author": "MomePP",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MomePP/mome-plastic/issues"
+    },
+    "homepage": "https://github.com/MomePP/mome-plastic#readme",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Mome Plastic v1.0.0",
+                "uiTheme": "vs-dark",
+                "path": "./themes/v1.0.0-deprioritised-punctuation.json"
+            }
+        ]
+    },
+    "engines": {
+        "vscode": "^1.45.0"
+    }
+}
