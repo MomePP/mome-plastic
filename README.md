@@ -11,8 +11,8 @@ A theme based on Plastic themes for personal used only
 
 ### Optional extensions for visual appearance
 - **Vibrancy** : https://marketplace.visualstudio.com/items?itemName=eyhn.vscode-vibrancy
-  - add this setting to vscode
-    `"vscode_vibrancy.opacity": 0.8, "terminal.integrated.rendererType": "dom"`
+  - add this setting to vscode<br>
+    `"vscode_vibrancy.opacity": 0.8,` <br>`"terminal.integrated.rendererType": "dom"`
 - **CustomizeUI** : https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui
-  - add this setting to vscode
-    `"customizeUI.activityBar": "bottom",  "customizeUI.activityBarHideSettings": true`
+  - add this setting to vscode<br>
+    `"customizeUI.activityBar": "bottom",` <br>`"customizeUI.activityBarHideSettings": true`
