@@ -19,4 +19,4 @@ A theme based on Plastic themes for personal used only
 - **Glasscord** : https://github.com/AryToNeX/Glasscord
   - install the asar file by following installation guide from wiki page
   - after install, you need to add css file to call glasscord API. This gist using Glasscord's own CSS loader.
-    - https://gist.github.com/MomePP/167e87893eb0a42a956f5ee4dd0ccc37.js
+    - https://gist.github.com/MomePP/167e87893eb0a42a956f5ee4dd0ccc37
