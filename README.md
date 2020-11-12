@@ -16,3 +16,7 @@ A theme based on Plastic themes for personal used only
 - **CustomizeUI** : https://marketplace.visualstudio.com/items?itemName=iocave.customize-ui
   - add this setting to vscode<br>
     `"customizeUI.activityBar": "bottom",` <br>`"customizeUI.activityBarHideSettings": true`
+- **Glasscord** : https://github.com/AryToNeX/Glasscord
+  - install the asar file by following installation guide from wiki page
+  - after install, you need to add css file to call glasscord API. This gist using Glasscord's own CSS loader.
+    - <script src="https://gist.github.com/MomePP/167e87893eb0a42a956f5ee4dd0ccc37.js"></script>
