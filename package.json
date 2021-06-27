@@ -25,6 +25,11 @@
                 "label": "Mome Plastic v1.0.0",
                 "uiTheme": "vs-dark",
                 "path": "./themes/v1.0.0-deprioritised-punctuation.json"
+            },
+            {
+                "label": "Vitesse Plastic v1.0.0",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vitesse-plastic.json"
             }
         ]
     },
